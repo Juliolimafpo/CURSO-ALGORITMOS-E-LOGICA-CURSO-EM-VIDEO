@@ -1,5 +1,5 @@
 
-Meus Exercícios de Lógica (Curso em Vídeo)
+💻Exercicios
 
 
 🎯 Por que voltei para a lógica?
