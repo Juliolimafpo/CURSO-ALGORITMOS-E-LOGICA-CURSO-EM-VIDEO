@@ -1,5 +1,5 @@
 
-💻 **Exercicios**
+💻## **Exercicios**
 
 
 🎯 Por que voltei para a lógica?
