@@ -1,14 +1,13 @@
-
-# Exercicios de logica 
+# Meus Exercícios de Lógica (Curso em Vídeo)
 
 📁 O que tem aqui?
 
-Aqui dentro estão todos os desafios que resolvi, desde os primeiros comandos de ler e escrever até o final com estruturas mais complexas:
+Aqui dentro estão todas as soluções dos desafios que resolvi no VisuAlg, cobrindo desde os conceitos iniciais até estruturas mais avançadas:
 
-• Condicionais (Se / Senao)
+- Operadores lógicos e relacionais
+- Estruturas condicionais e de escolha 
+- Estruturas de repetição
+- Procedimentos e funções 
+- Manipulação de vetores e matrizes
 
-• Laços de repetição (Para, Enquanto, Repita)
 
-• Procedimentos e Funções
-
-• Vetores e Matrizes
