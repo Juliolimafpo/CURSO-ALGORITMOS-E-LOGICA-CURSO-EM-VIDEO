@@ -1,7 +1,6 @@
 
 Meus Exercícios de Lógica (Curso em Vídeo)
 
-Criei esse repositório para guardar os mais de 100 exercícios que fiz no curso de Algoritmos do Gustavo Guanabara.
 
 🎯 Por que voltei para a lógica?
 
