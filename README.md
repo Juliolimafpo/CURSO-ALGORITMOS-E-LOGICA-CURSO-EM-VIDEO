@@ -12,6 +12,9 @@ Sendo bem sincero, eu já tinha tentado ir direto para uma linguagem de programa
 Aqui dentro estão todos os desafios que resolvi, desde os primeiros comandos de ler e escrever até o final com estruturas mais complexas:
 
 • Condicionais (Se / Senao)
+
 • Laços de repetição (Para, Enquanto, Repita)
+
 • Procedimentos e Funções
+
 • Vetores e Matrizes
